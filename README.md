@@ -1,4 +1,5 @@
 ### Olá, tudo bem? Eu sou o Ivan Oliveira 👋
+<hr>
 
 - 🔭 Atualmente estou trabalhando na D1 | Smarkio como Analista de Desenvolvimento de Sistemas.
 - 🌱 Estou aprendendo mais sobre JavaScript e Docker
@@ -10,7 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanoliver131&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-### Languages and Tools
+### Programming languages and Tools ✨⚙🛠
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ivan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
