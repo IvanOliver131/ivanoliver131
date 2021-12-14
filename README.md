@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Atualmente estou trabalhando na D1 | Smarkio como Analista de Desenvolvimento de Sistemas.
-- 🌱 Estou aprendendo mais sobre JavaScript e Docker
+- 🌱 Estou aprendendo mais sobre JavaScript e React.
 - 📫 Contate-me: ivanoliver131@gmail.com
 
 <div align="center">
@@ -16,6 +16,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ivan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ivan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ivan-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
