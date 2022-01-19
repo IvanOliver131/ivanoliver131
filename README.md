@@ -36,4 +36,6 @@
 <div>
   <span>Um sistema de controle de estoque e retirada de produtos de uma UBS - <b>Login:<b> admin <b>Senha:<b> admin<br></span>
   <a href="https://618a66089d744500071075d7--system-medic.netlify.app">SystemMedic</a>
+     <span>Um projeto elaborado junto com o NLW de React da Rocketseat - <b>Pode logar utilizando sua conta do Google ou apenas informar uma sala<b><br></span>
+  <a href="https://letmeask-50d06.web.app">LetmeASK</a>
 </div>
