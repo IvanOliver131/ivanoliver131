@@ -34,6 +34,6 @@
 ### Some personal projects 🚀⚙🛠
 <hr>
 <div>
-  <span>Login: admin <br> Senha: admin</span>
-  <a href="https://618a66089d744500071075d7--system-medic.netlify.app/sign-in">SystemMedic</a>
+  <span>Um sistema de controle de estoque e retirada de produtos de uma UBS - <b>Login:<b> admin <b>Senha:<b> admin<br></span>
+  <a href="https://618a66089d744500071075d7--system-medic.netlify.app">SystemMedic</a>
 </div>
