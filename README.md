@@ -1,8 +1,9 @@
 ### Olá, tudo bem? Eu sou o Ivan Oliveira 👋
 <hr>
 
-- 🔭 Atualmente estou trabalhando na D1 | Smarkio como Analista de Desenvolvimento de Sistemas.
-- 🌱 Estou aprendendo mais sobre JavaScript e React.
+- 🔭 Atualmente estou trabalhando na D1 | Smarkio como Desenvolvedor Jr.
+- 🌱 Estou sempre buscando aperfeiçoar as linguagens que já possuo conhecimento e correndo atrás de novos desafios.
+- 🚀 Dando foco na aprendizagem React, NestJs e NextJs. 
 - 📫 Contate-me: ivanoliver131@gmail.com
 
 <div align="center">
