@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Eu sou o Ivan Oliveira 👋
 <hr>
 
-- 🔭 Atualmente estou trabalhando na D1 | Smarkio como Desenvolvedor Jr.
+- 🔭 Atualmente estou trabalhando na D1 | Zenvia como Desenvolvedor de Software.
 - 🌱 Estou sempre buscando aperfeiçoar as linguagens que já possuo conhecimento e correndo atrás de novos desafios.
 - 🚀 Dando foco na aprendizagem React, NestJs e NextJs. 
 - 📫 Contate-me: ivanoliver131@gmail.com
