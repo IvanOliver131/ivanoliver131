@@ -36,6 +36,10 @@
 ### Some personal projects 🚀⚙🛠
 <hr>
 <div>
+  <span>Um sistema de postagens realizado no Ignite de REACT da Rockets - <b>Pode logar utilizando sua conta do Google e assinar com o numero de cartão 4242 4242 4242 4242<b><br></span>
+  <a href="https://ig-news-ivanoliver131.vercel.app" target="_blank">IgNews</a>
+  <br>
+  <br>
   <span>Um sistema de controle de estoque e retirada de produtos de uma UBS - <b>Login:</b> admin <b>Senha:</b> admin<br></span>
   <a href="https://618a66089d744500071075d7--system-medic.netlify.app" target="_blank">SystemMedic</a>
   <br>  
