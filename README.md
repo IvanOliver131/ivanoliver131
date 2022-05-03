@@ -36,6 +36,10 @@
 ### Some personal projects 🚀⚙🛠
 <hr>
 <div>
+  <span>Um sistema Dashboard realizado no Ignite de REACT da Rockets</span> 
+  <a href="https://dashgo-ivanoliver131.vercel.app" target="_blank">IgNews</a>
+  <br>
+  <br>
   <span>Um sistema de postagens realizado no Ignite de REACT da Rockets - <b>Pode logar utilizando sua conta do GitHub e assinar com o numero de cartão 4242 4242 4242 4242<b><br></span>
   <a href="https://ig-news-ivanoliver131.vercel.app" target="_blank">IgNews</a>
   <br>
