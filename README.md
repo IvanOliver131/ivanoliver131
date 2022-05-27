@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na D1 | Zenvia como Desenvolvedor de Software.
 - 🌱 Estou sempre buscando aperfeiçoar as linguagens que já possuo conhecimento e correndo atrás de novos desafios.
-- 🚀 Dando foco na aprendizagem React, NestJs e NextJs. 
+- 🚀 Dando foco na aprendizagem React, NextJs e testes unitários no front utilizando Jest.  
 - 📫 Contate-me: ivanoliver131@gmail.com
 
 <div align="center">
