@@ -36,7 +36,7 @@
 ### Some personal projects 🚀⚙🛠
 <hr>
 <div>
-  <span>Um sistema - SPACETRAVELING de posts realizado do zero como desafio do Ignite de REACT da Rockets<br></span> 
+  <span>Um sistema de posts realizado do zero como desafio do Ignite de REACT da Rocketseat, o SPACETRAVELING<br></span> 
   <b><a href="https://spacetraveling-ivanoliver131.vercel.app" target="_blank">< /> SPACETRAVELING.</a> </b>
   <br>
   <br>
