@@ -36,6 +36,10 @@
 ### Some personal projects 🚀⚙🛠
 <hr>
 <div>
+  <span>Um sistema para controle de estudantes o CONTROLStudents<br></span> 
+  <b><a href="https://frontend-descomplica.vercel.app" target="_blank">< /> CONTROLStudents .</a> </b>
+  <br>
+  <br>  
   <span>Um sistema de aulas feito no IgniteLab<br></span> 
   <b><a href="https://event-platform-ivanoliver131.vercel.app" target="_blank">EventPlatform</a> </b>
   <br>
