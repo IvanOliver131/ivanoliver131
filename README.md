@@ -36,8 +36,12 @@
 ### Some personal projects 🚀⚙🛠
 <hr>
 <div>
+  <span>Um Design System realizado junto ao IgniteLab<br></span>
+  <b><a href="https://lab-ds-eight.vercel.app" target="_blank">< /b>
+  <br>
+  <br>
   <span>Um sistema para controle de estudantes o CONTROLStudents<br></span> 
-  <b><a href="https://frontend-descomplica.vercel.app" target="_blank">< /> CONTROLStudents .</a> </b>
+  <b><a href="https://frontend-descomplica.vercel.app" target="_blank">< /b> CONTROLStudents .</a> </b>
   <br>
   <br>  
   <span>Um sistema de aulas feito no IgniteLab<br></span> 
