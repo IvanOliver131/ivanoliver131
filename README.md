@@ -37,7 +37,7 @@
 <hr>
 <div>
   <span>Um Design System realizado junto ao IgniteLab<br></span>
-  <b><a href="https://lab-ds-eight.vercel.app" target="_blank">< /b>
+  <b><a href="https://lab-ds-eight.vercel.app" target="_blank"> Login - Design System </a></b>
   <br>
   <br>
   <span>Um sistema para controle de estudantes o CONTROLStudents<br></span> 
