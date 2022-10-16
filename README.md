@@ -51,7 +51,7 @@
   <br>
   <br>
   <span>Um sistema simples de to-do para treinar<br></span> 
-  <b><a href="to-ecj62oqhy-ivanoliver131.vercel.app" target="_blank">TO-DO.</a> </b>
+  <b><a href="https://to-do-kappa-wheat.vercel.app" target="_blank">TO-DO.</a> </b>
   <br>
   <br>
   <span>Um sistema de posts realizado do zero como desafio do Ignite de REACT da Rocketseat, o SPACETRAVELING<br></span> 
