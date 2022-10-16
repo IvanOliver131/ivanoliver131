@@ -6,7 +6,7 @@
 - 🚀 Dando foco na aprendizagem React, Java, microsserviços, Kafka e Clean Code.  
 - 📫 Contate-me: ivanoliver131@gmail.com
 
-<img height="180em" src="https://user-images.githubusercontent.com/62350674/196039484-93511988-6eb6-481f-8dd8-bcd6534a0564.pn" />
+<img height="180em" src="https://user-images.githubusercontent.com/62350674/196039484-93511988-6eb6-481f-8dd8-bcd6534a0564.png" />
 
 <div align="center">
   <a href="https://github.com/ivanoliver131">
