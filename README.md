@@ -1,6 +1,7 @@
 ### Hello there!! Eu sou o Ivan Oliveira 👋
 <hr>
 
+- 📔 Acesse meu portfólio - <a href="https://portifolio-ivan.vercel.app">Ivan Oliveira</a> 
 - 🔭 Atualmente estou trabalhando na empresa Zenvia como Desenvolvedor de Software.
 - 🌱 Estou sempre buscando aperfeiçoar as linguagens que já possuo conhecimento e correndo atrás de novos desafios.
 - 🚀 Dando foco na aprendizagem React, Java, microsserviços, Kafka e Clean Code.  
