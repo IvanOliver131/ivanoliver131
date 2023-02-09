@@ -2,7 +2,7 @@
 <hr>
 
 - 📔 Acesse meu portfólio - <a href="https://portifolio-ivan.vercel.app">Ivan Oliveira</a> 
-- 🔭 Atualmente estou trabalhando na empresa Zenvia como Desenvolvedor de Software.
+- 🔭 Atualmente estou trabalhando na empresa Zenvia como Desenvolvedor Frontend.
 - 🌱 Estou sempre buscando aperfeiçoar as linguagens que já possuo conhecimento e correndo atrás de novos desafios.
 - 🚀 Dando foco na aprendizagem React, Next, React Native, Typescript e Clean Code.  
 - 📫 Contate-me: ivanoliver131@gmail.com
