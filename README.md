@@ -6,7 +6,7 @@
 - 🌱 Estou sempre buscando aperfeiçoar as linguagens que já possuo conhecimento e correndo atrás de novos desafios.
 - 🚀 Dando foco na aprendizagem React, Next, React Native, Typescript e Clean Code.  
 - 📫 Contate-me: ivanoliver131@gmail.com
-- 
+
 <div align="center">
   <a href="https://github.com/ivanoliver131">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanoliver131&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
